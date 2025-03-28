@@ -1,0 +1,8 @@
+https://www.jetbrains.com.cn/en-us/help/idea/settings-docker.html
+- setting pluginのdockerがinstall済みであること
+- docker desktop立ち上がった状態で、setting build -> dockerでdocker for macが自動で出るので、OK
+- https://www.youtube.com/watch?v=hw9JIQzNz8I
+  - intellijの左下のdocker container ダブルクリックでコンテナが出ること
+  - 右上のdb + で、postgre選び、user passwordのみいれる
+  - sql実行してテーブル作成
+  - テーブルの上位のpostgreのところを右クリックでdiagramでER図
